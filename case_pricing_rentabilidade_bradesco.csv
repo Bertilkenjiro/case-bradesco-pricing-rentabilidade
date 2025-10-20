@@ -1,0 +1,101 @@
+Filial,Regiao,CategoriaProduto,Produto,PrecoVenda,CustoOperacional,MargemUnitaria,QuantidadeContratos,ReceitaTotal,MargemTotal,ClusterRentabilidade,ClusterCRM
+FARIA LIMA - SP,Sudeste,Crédito PJ,Linha Crédito Giro,7705,3600,0.53,192,1479360,788160.0,Alta Rentabilidade,Ação Preventiva
+FARIA LIMA - SP,Sudeste,Crédito PJ,Crédito Expansão Empresarial,8288,4005,0.52,36,298368,154188.0,Oportunidade de Pricing,Ação Preventiva
+FARIA LIMA - SP,Sudeste,Serviços de Tesouraria,Tesouraria Premium,2839,1398,0.51,156,442884,224796.0,Oportunidade de Pricing,Cross-Selling Potencial
+FARIA LIMA - SP,Sudeste,Serviços de Tesouraria,Cash Flow Control,2449,1208,0.51,65,159185,80665.0,Alta Rentabilidade,Cross-Selling Potencial
+FARIA LIMA - SP,Sudeste,Seguros Corporativos,Seguro Performance PJ,7037,4640,0.34,52,365924,124644.0,Alta Rotatividade,Ação Preventiva
+FARIA LIMA - SP,Sudeste,Seguros Corporativos,Seguro Operacional Atacadista,4484,2506,0.44,42,188328,83076.0,Oportunidade de Pricing,Cross-Selling Potencial
+FARIA LIMA - SP,Sudeste,Gestão de Caixa,Cash Management Basic,2483,1714,0.31,32,79456,24608.0,Alta Rentabilidade,Ação Preventiva
+FARIA LIMA - SP,Sudeste,Gestão de Caixa,Cash Management Plus,8733,3845,0.56,128,1117824,625664.0,Oportunidade de Pricing,Cross-Selling Potencial
+FARIA LIMA - SP,Sudeste,Soluções de Investimento,Plano Invest Corporate,5996,4088,0.32,177,1061292,337716.0,Alta Rotatividade,Ação Preventiva
+FARIA LIMA - SP,Sudeste,Soluções de Investimento,Carteira Renda Atacado,4966,1704,0.66,59,292994,192458.0,Alta Rotatividade,Cross-Selling Potencial
+OSASCO - MATRIZ,Sudeste,Crédito PJ,Linha Crédito Giro,6813,2438,0.64,116,790308,507500.0,Oportunidade de Pricing,Manter
+OSASCO - MATRIZ,Sudeste,Crédito PJ,Crédito Expansão Empresarial,6853,2436,0.64,114,781242,503538.0,Alta Rotatividade,Cross-Selling Potencial
+OSASCO - MATRIZ,Sudeste,Serviços de Tesouraria,Tesouraria Premium,7422,4599,0.38,189,1402758,533547.0,Oportunidade de Pricing,Cross-Selling Potencial
+OSASCO - MATRIZ,Sudeste,Serviços de Tesouraria,Cash Flow Control,5170,2289,0.56,166,858220,478246.0,Alta Rentabilidade,Ação Preventiva
+OSASCO - MATRIZ,Sudeste,Seguros Corporativos,Seguro Performance PJ,7340,4286,0.42,192,1409280,586368.0,Alta Rotatividade,Manter
+OSASCO - MATRIZ,Sudeste,Seguros Corporativos,Seguro Operacional Atacadista,2597,926,0.64,54,140238,90234.0,Oportunidade de Pricing,Manter
+OSASCO - MATRIZ,Sudeste,Gestão de Caixa,Cash Management Basic,7083,3405,0.52,191,1352853,702498.0,Oportunidade de Pricing,Cross-Selling Potencial
+OSASCO - MATRIZ,Sudeste,Gestão de Caixa,Cash Management Plus,4714,2530,0.46,103,485542,224952.0,Oportunidade de Pricing,Manter
+OSASCO - MATRIZ,Sudeste,Soluções de Investimento,Plano Invest Corporate,8169,5486,0.33,102,833238,273666.0,Oportunidade de Pricing,Ação Preventiva
+OSASCO - MATRIZ,Sudeste,Soluções de Investimento,Carteira Renda Atacado,5993,3220,0.46,103,617279,285619.0,Oportunidade de Pricing,Ação Preventiva
+RIO CORPORATE - RJ,Sudeste,Crédito PJ,Linha Crédito Giro,6813,3229,0.53,95,647235,340480.0,Alta Rotatividade,Manter
+RIO CORPORATE - RJ,Sudeste,Crédito PJ,Crédito Expansão Empresarial,6913,2077,0.7,83,573779,401388.0,Oportunidade de Pricing,Cross-Selling Potencial
+RIO CORPORATE - RJ,Sudeste,Serviços de Tesouraria,Tesouraria Premium,3379,1803,0.47,23,77717,36248.0,Oportunidade de Pricing,Manter
+RIO CORPORATE - RJ,Sudeste,Serviços de Tesouraria,Cash Flow Control,9730,6224,0.36,85,827050,298010.0,Oportunidade de Pricing,Cross-Selling Potencial
+RIO CORPORATE - RJ,Sudeste,Seguros Corporativos,Seguro Performance PJ,3513,2191,0.38,82,288066,108404.0,Alta Rentabilidade,Cross-Selling Potencial
+RIO CORPORATE - RJ,Sudeste,Seguros Corporativos,Seguro Operacional Atacadista,3933,1547,0.61,85,334305,202810.0,Alta Rentabilidade,Ação Preventiva
+RIO CORPORATE - RJ,Sudeste,Gestão de Caixa,Cash Management Basic,4144,2350,0.43,143,592592,256542.0,Alta Rentabilidade,Cross-Selling Potencial
+RIO CORPORATE - RJ,Sudeste,Gestão de Caixa,Cash Management Plus,2958,1381,0.53,103,304674,162431.0,Oportunidade de Pricing,Ação Preventiva
+RIO CORPORATE - RJ,Sudeste,Soluções de Investimento,Plano Invest Corporate,7685,2966,0.61,37,284345,174603.0,Alta Rentabilidade,Ação Preventiva
+RIO CORPORATE - RJ,Sudeste,Soluções de Investimento,Carteira Renda Atacado,3278,1007,0.69,73,239294,165783.0,Alta Rentabilidade,Manter
+BH FINANCE HUB,Sudeste,Crédito PJ,Linha Crédito Giro,5247,2101,0.6,77,404019,242242.0,Alta Rentabilidade,Cross-Selling Potencial
+BH FINANCE HUB,Sudeste,Crédito PJ,Crédito Expansão Empresarial,6682,2613,0.61,44,294008,179036.0,Alta Rentabilidade,Manter
+BH FINANCE HUB,Sudeste,Serviços de Tesouraria,Tesouraria Premium,7177,3262,0.55,173,1241621,677295.0,Oportunidade de Pricing,Ação Preventiva
+BH FINANCE HUB,Sudeste,Serviços de Tesouraria,Cash Flow Control,3536,1149,0.68,183,647088,436821.0,Oportunidade de Pricing,Ação Preventiva
+BH FINANCE HUB,Sudeste,Seguros Corporativos,Seguro Performance PJ,7998,2900,0.64,59,471882,300782.0,Oportunidade de Pricing,Manter
+BH FINANCE HUB,Sudeste,Seguros Corporativos,Seguro Operacional Atacadista,8121,3124,0.62,102,828342,509694.0,Alta Rentabilidade,Cross-Selling Potencial
+BH FINANCE HUB,Sudeste,Gestão de Caixa,Cash Management Basic,4341,2787,0.36,143,620763,222222.0,Oportunidade de Pricing,Cross-Selling Potencial
+BH FINANCE HUB,Sudeste,Gestão de Caixa,Cash Management Plus,4384,2204,0.5,165,723360,359700.0,Oportunidade de Pricing,Ação Preventiva
+BH FINANCE HUB,Sudeste,Soluções de Investimento,Plano Invest Corporate,6876,2684,0.61,35,240660,146720.0,Alta Rotatividade,Manter
+BH FINANCE HUB,Sudeste,Soluções de Investimento,Carteira Renda Atacado,7471,2848,0.62,116,866636,536268.0,Oportunidade de Pricing,Manter
+PORTO ALEGRE BUSINESS,Sul,Crédito PJ,Linha Crédito Giro,2927,2034,0.31,154,450758,137522.0,Alta Rentabilidade,Cross-Selling Potencial
+PORTO ALEGRE BUSINESS,Sul,Crédito PJ,Crédito Expansão Empresarial,3125,1953,0.38,73,228125,85556.0,Alta Rentabilidade,Ação Preventiva
+PORTO ALEGRE BUSINESS,Sul,Serviços de Tesouraria,Tesouraria Premium,6715,3147,0.53,165,1107975,588720.0,Alta Rotatividade,Manter
+PORTO ALEGRE BUSINESS,Sul,Serviços de Tesouraria,Cash Flow Control,5133,1759,0.66,67,343911,226058.0,Alta Rotatividade,Manter
+PORTO ALEGRE BUSINESS,Sul,Seguros Corporativos,Seguro Performance PJ,5909,1955,0.67,24,141816,94896.0,Oportunidade de Pricing,Ação Preventiva
+PORTO ALEGRE BUSINESS,Sul,Seguros Corporativos,Seguro Operacional Atacadista,9670,3429,0.65,194,1875980,1210754.0,Alta Rotatividade,Ação Preventiva
+PORTO ALEGRE BUSINESS,Sul,Gestão de Caixa,Cash Management Basic,2122,1428,0.33,166,352252,115204.0,Oportunidade de Pricing,Ação Preventiva
+PORTO ALEGRE BUSINESS,Sul,Gestão de Caixa,Cash Management Plus,9705,3166,0.67,166,1611030,1085474.0,Oportunidade de Pricing,Manter
+PORTO ALEGRE BUSINESS,Sul,Soluções de Investimento,Plano Invest Corporate,7611,2684,0.65,10,76110,49270.0,Alta Rentabilidade,Ação Preventiva
+PORTO ALEGRE BUSINESS,Sul,Soluções de Investimento,Carteira Renda Atacado,5252,3435,0.35,131,688012,238027.0,Alta Rentabilidade,Ação Preventiva
+CURITIBA ENTERPRISE,Sul,Crédito PJ,Linha Crédito Giro,7895,5321,0.33,99,781605,254826.0,Alta Rotatividade,Cross-Selling Potencial
+CURITIBA ENTERPRISE,Sul,Crédito PJ,Crédito Expansão Empresarial,9588,5673,0.41,49,469812,191835.0,Oportunidade de Pricing,Ação Preventiva
+CURITIBA ENTERPRISE,Sul,Serviços de Tesouraria,Tesouraria Premium,4893,2774,0.43,31,151683,65689.0,Alta Rentabilidade,Ação Preventiva
+CURITIBA ENTERPRISE,Sul,Serviços de Tesouraria,Cash Flow Control,4773,2363,0.5,41,195693,98810.0,Oportunidade de Pricing,Manter
+CURITIBA ENTERPRISE,Sul,Seguros Corporativos,Seguro Performance PJ,2937,1231,0.58,133,390621,226898.0,Oportunidade de Pricing,Ação Preventiva
+CURITIBA ENTERPRISE,Sul,Seguros Corporativos,Seguro Operacional Atacadista,8994,5898,0.34,131,1178214,405576.0,Oportunidade de Pricing,Ação Preventiva
+CURITIBA ENTERPRISE,Sul,Gestão de Caixa,Cash Management Basic,3301,1234,0.63,85,280585,175695.0,Alta Rentabilidade,Cross-Selling Potencial
+CURITIBA ENTERPRISE,Sul,Gestão de Caixa,Cash Management Plus,9727,4673,0.52,69,671163,348726.0,Alta Rentabilidade,Ação Preventiva
+CURITIBA ENTERPRISE,Sul,Soluções de Investimento,Plano Invest Corporate,6079,3555,0.42,162,984798,408888.0,Oportunidade de Pricing,Ação Preventiva
+CURITIBA ENTERPRISE,Sul,Soluções de Investimento,Carteira Renda Atacado,6297,1911,0.7,24,151128,105264.0,Alta Rotatividade,Manter
+RECIFE NORDESTE HUB,Nordeste,Crédito PJ,Linha Crédito Giro,2137,1273,0.4,57,121809,49248.0,Oportunidade de Pricing,Ação Preventiva
+RECIFE NORDESTE HUB,Nordeste,Crédito PJ,Crédito Expansão Empresarial,3072,1383,0.55,42,129024,70938.0,Alta Rotatividade,Ação Preventiva
+RECIFE NORDESTE HUB,Nordeste,Serviços de Tesouraria,Tesouraria Premium,8506,4060,0.52,111,944166,493506.0,Alta Rotatividade,Manter
+RECIFE NORDESTE HUB,Nordeste,Serviços de Tesouraria,Cash Flow Control,3829,1949,0.49,156,597324,293280.0,Oportunidade de Pricing,Cross-Selling Potencial
+RECIFE NORDESTE HUB,Nordeste,Seguros Corporativos,Seguro Performance PJ,2882,962,0.67,156,449592,299520.0,Alta Rentabilidade,Ação Preventiva
+RECIFE NORDESTE HUB,Nordeste,Seguros Corporativos,Seguro Operacional Atacadista,8362,5694,0.32,127,1061974,338836.0,Alta Rotatividade,Cross-Selling Potencial
+RECIFE NORDESTE HUB,Nordeste,Gestão de Caixa,Cash Management Basic,9239,4797,0.48,33,304887,146586.0,Oportunidade de Pricing,Manter
+RECIFE NORDESTE HUB,Nordeste,Gestão de Caixa,Cash Management Plus,9372,2940,0.69,52,487344,334464.0,Alta Rentabilidade,Manter
+RECIFE NORDESTE HUB,Nordeste,Soluções de Investimento,Plano Invest Corporate,4866,2202,0.55,164,798024,436896.0,Oportunidade de Pricing,Manter
+RECIFE NORDESTE HUB,Nordeste,Soluções de Investimento,Carteira Renda Atacado,4970,2833,0.43,65,323050,138905.0,Alta Rotatividade,Cross-Selling Potencial
+BRASÍLIA EXECUTIVE,Centro-Oeste,Crédito PJ,Linha Crédito Giro,7385,2785,0.62,77,568645,354200.0,Alta Rotatividade,Cross-Selling Potencial
+BRASÍLIA EXECUTIVE,Centro-Oeste,Crédito PJ,Crédito Expansão Empresarial,8408,2638,0.69,26,218608,150020.0,Alta Rentabilidade,Cross-Selling Potencial
+BRASÍLIA EXECUTIVE,Centro-Oeste,Serviços de Tesouraria,Tesouraria Premium,7943,4420,0.44,195,1548885,686985.0,Alta Rentabilidade,Cross-Selling Potencial
+BRASÍLIA EXECUTIVE,Centro-Oeste,Serviços de Tesouraria,Cash Flow Control,8139,5297,0.35,160,1302240,454720.0,Alta Rotatividade,Manter
+BRASÍLIA EXECUTIVE,Centro-Oeste,Seguros Corporativos,Seguro Performance PJ,9676,6573,0.32,79,764404,245137.0,Oportunidade de Pricing,Ação Preventiva
+BRASÍLIA EXECUTIVE,Centro-Oeste,Seguros Corporativos,Seguro Operacional Atacadista,6800,3785,0.44,62,421600,186930.0,Alta Rentabilidade,Manter
+BRASÍLIA EXECUTIVE,Centro-Oeste,Gestão de Caixa,Cash Management Basic,6543,3496,0.47,113,739359,344311.0,Alta Rotatividade,Manter
+BRASÍLIA EXECUTIVE,Centro-Oeste,Gestão de Caixa,Cash Management Plus,7990,3486,0.56,188,1502120,846752.0,Oportunidade de Pricing,Ação Preventiva
+BRASÍLIA EXECUTIVE,Centro-Oeste,Soluções de Investimento,Plano Invest Corporate,3445,1622,0.53,167,575315,304441.0,Oportunidade de Pricing,Manter
+BRASÍLIA EXECUTIVE,Centro-Oeste,Soluções de Investimento,Carteira Renda Atacado,7753,2820,0.64,189,1465317,932337.0,Alta Rentabilidade,Manter
+CAMPINAS REGIONAL,Sudeste,Crédito PJ,Linha Crédito Giro,9090,5418,0.4,43,390870,157896.0,Oportunidade de Pricing,Ação Preventiva
+CAMPINAS REGIONAL,Sudeste,Crédito PJ,Crédito Expansão Empresarial,7408,3420,0.54,22,162976,87736.0,Oportunidade de Pricing,Cross-Selling Potencial
+CAMPINAS REGIONAL,Sudeste,Serviços de Tesouraria,Tesouraria Premium,3639,2451,0.33,172,625908,204336.0,Alta Rotatividade,Cross-Selling Potencial
+CAMPINAS REGIONAL,Sudeste,Serviços de Tesouraria,Cash Flow Control,7047,3253,0.54,85,598995,322490.0,Alta Rotatividade,Ação Preventiva
+CAMPINAS REGIONAL,Sudeste,Seguros Corporativos,Seguro Performance PJ,3005,1506,0.5,82,246410,122918.0,Alta Rotatividade,Ação Preventiva
+CAMPINAS REGIONAL,Sudeste,Seguros Corporativos,Seguro Operacional Atacadista,4973,2432,0.51,118,586814,299838.0,Alta Rentabilidade,Cross-Selling Potencial
+CAMPINAS REGIONAL,Sudeste,Gestão de Caixa,Cash Management Basic,8497,3363,0.6,171,1452987,877914.0,Alta Rotatividade,Ação Preventiva
+CAMPINAS REGIONAL,Sudeste,Gestão de Caixa,Cash Management Plus,7024,2900,0.59,50,351200,206200.0,Alta Rotatividade,Ação Preventiva
+CAMPINAS REGIONAL,Sudeste,Soluções de Investimento,Plano Invest Corporate,9286,2826,0.7,22,204292,142120.0,Alta Rentabilidade,Manter
+CAMPINAS REGIONAL,Sudeste,Soluções de Investimento,Carteira Renda Atacado,5601,2225,0.6,82,459282,276832.0,Oportunidade de Pricing,Ação Preventiva
+FORTALEZA BUSINESS POINT,Nordeste,Crédito PJ,Linha Crédito Giro,8545,5747,0.33,10,85450,27980.0,Oportunidade de Pricing,Ação Preventiva
+FORTALEZA BUSINESS POINT,Nordeste,Crédito PJ,Crédito Expansão Empresarial,6925,4145,0.4,134,927950,372520.0,Oportunidade de Pricing,Ação Preventiva
+FORTALEZA BUSINESS POINT,Nordeste,Serviços de Tesouraria,Tesouraria Premium,5863,2091,0.64,76,445588,286672.0,Oportunidade de Pricing,Cross-Selling Potencial
+FORTALEZA BUSINESS POINT,Nordeste,Serviços de Tesouraria,Cash Flow Control,9797,3554,0.64,166,1626302,1036338.0,Oportunidade de Pricing,Ação Preventiva
+FORTALEZA BUSINESS POINT,Nordeste,Seguros Corporativos,Seguro Performance PJ,7368,3230,0.56,145,1068360,600010.0,Alta Rotatividade,Ação Preventiva
+FORTALEZA BUSINESS POINT,Nordeste,Seguros Corporativos,Seguro Operacional Atacadista,2971,1348,0.55,190,564490,308370.0,Alta Rentabilidade,Cross-Selling Potencial
+FORTALEZA BUSINESS POINT,Nordeste,Gestão de Caixa,Cash Management Basic,2291,1235,0.46,16,36656,16896.0,Oportunidade de Pricing,Manter
+FORTALEZA BUSINESS POINT,Nordeste,Gestão de Caixa,Cash Management Plus,8167,3706,0.55,183,1494561,816363.0,Alta Rentabilidade,Manter
+FORTALEZA BUSINESS POINT,Nordeste,Soluções de Investimento,Plano Invest Corporate,5376,1818,0.66,83,446208,295314.0,Oportunidade de Pricing,Manter
+FORTALEZA BUSINESS POINT,Nordeste,Soluções de Investimento,Carteira Renda Atacado,7608,4021,0.47,148,1125984,530876.0,Alta Rotatividade,Manter
