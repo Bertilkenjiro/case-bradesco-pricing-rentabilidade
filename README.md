@@ -30,7 +30,7 @@
 
 # \## Insight Executivo
 
-# As filiais \*\*Brasília Executive, Fortaleza Business e Osasco Matriz\*\* concentram mais de \*\*35% da rentabilidade total\*\*, com destaque para o produto \*\*Cash Management Plus\*\*, da Classe A.  
+# As filiais \*\*Brasília Executive, Fortaleza Business e Osasco Matriz\*\* concentram mais de \*\*35% da rentabilidade total\*\*, com destaque para o produto \*\*Cash Management Plus\*\*, da Classe A.
 
 # Recomenda-se priorizar campanhas de \*\*cross-selling\*\* nessas regiões, focando produtos \*\*Classe B\*\* de maior margem incremental.
 
@@ -56,7 +56,7 @@
 
 # \## Performance por Filiais
 
-# O painel destaca o \*\*ranking das filiais com maior contribuição de margem\*\* no portfólio de CRM Atacado.  
+# O painel destaca o \*\*ranking das filiais com maior contribuição de margem\*\* no portfólio de CRM Atacado.
 
 # A análise evidencia os \*\*centros de rentabilidade\*\* e as \*\*regiões prioritárias para expansão comercial\*\*.
 
@@ -76,7 +76,7 @@
 
 # \## Apresentação Completa (PDF)
 
-# \[Baixar o Case em PDF](Case\_Bradesco\_Rentabilidade.pdf)
+# \[Baixar o Case em PDF](Case\_Bradesco\_Rentabilidade.pdf) 
 
 # 
 
@@ -89,6 +89,4 @@
 # \## Resultado
 
 # Painel de \*\*rentabilidade corporativa\*\* com narrativa executiva e design orientado à decisão, simulando padrões de \*\*dashboards bancários reais\*\*.
-
-
 
