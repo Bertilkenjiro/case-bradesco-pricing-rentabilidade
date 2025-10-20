@@ -1,14 +1,14 @@
-# \# 🏦 Case Bradesco – Pricing \& Rentabilidade
+# \# Case Bradesco – Pricing \& Rentabilidade
 
 # 
 
-# \## 🎯 Objetivo
+# \## Objetivo
 
 # Desenvolver um painel estratégico de rentabilidade para o \*\*CRM Atacado do Bradesco\*\*, com foco em priorização de produtos e filiais através da \*\*Curva ABC\*\* e análise de \*\*margem consolidada\*\*.
 
 # 
 
-# \## 🧠 Inteligência Aplicada
+# \## Inteligência Aplicada
 
 # \- Cálculo de \*\*Margem Total\*\* e \*\*Percentual Acumulado\*\*
 
@@ -22,21 +22,21 @@
 
 # 
 
-# \## 📊 Visual do Painel
+# \## Visual do Painel
 
 # !\[Painel de Rentabilidade](visuals/painel\_rentabilidade\_bradesco.png)
 
 # 
 
-# \## 💬 Insight Executivo
+# \## Insight Executivo
 
-# > As filiais \*\*Brasília Executive, Fortaleza Business e Osasco Matriz\*\* concentram mais de \*\*35% da rentabilidade total\*\*, com destaque para o produto \*\*Cash Management Plus\*\*, da Classe A.  
+# As filiais \*\*Brasília Executive, Fortaleza Business e Osasco Matriz\*\* concentram mais de \*\*35% da rentabilidade total\*\*, com destaque para o produto \*\*Cash Management Plus\*\*, da Classe A.  
 
-# > Recomenda-se priorizar campanhas de \*\*cross-selling\*\* nessas regiões, focando produtos \*\*Classe B\*\* de maior margem incremental.
+# Recomenda-se priorizar campanhas de \*\*cross-selling\*\* nessas regiões, focando produtos \*\*Classe B\*\* de maior margem incremental.
 
 # 
 
-# \## 🧩 Curva ABC Explicada
+# \## Curva ABC Explicada
 
 # A Curva ABC é uma técnica que \*\*classifica produtos ou clientes segundo sua contribuição para o resultado total\*\*, permitindo identificar os itens mais relevantes para o negócio.
 
@@ -46,15 +46,15 @@
 
 # |:-------:|:-----------|:------------------|:--------|
 
-# | 🟥 \*\*A\*\* | Itens estratégicos de alta rentabilidade | ~70% | Cash Management Plus |
+# | A | Itens estratégicos de alta rentabilidade | ~70% | Cash Management Plus |
 
-# | ⬛ \*\*B\*\* | Itens intermediários com potencial de crescimento | ~20% | Linha Crédito Giro |
+# | B | Itens intermediários com potencial de crescimento | ~20% | Linha Crédito Giro |
 
-# | ⬜ \*\*C\*\* | Itens de baixa representatividade | ~10% | Crédito Expansão Empresarial |
+# | C | Itens de baixa representatividade | ~10% | Crédito Expansão Empresarial |
 
 # 
 
-# \## 🧭 Performance por Filiais
+# \## Performance por Filiais
 
 # O painel destaca o \*\*ranking das filiais com maior contribuição de margem\*\* no portfólio de CRM Atacado.  
 
@@ -66,29 +66,27 @@
 
 # |:------|:--------------|
 
-# | 🟥 \*\*Top 3 – Brasília, Fortaleza, Osasco\*\* | Alto desempenho, >35% da margem total. |
+# | Top 3 – Brasília, Fortaleza, Osasco | Alto desempenho, mais de 35% da margem total. |
 
-# | ⬛ \*\*Intermediário – Porto Alegre, BH, Campinas\*\* | Bom volume, margem menor por cliente. |
+# | Intermediário – Porto Alegre, BH, Campinas | Bom volume, mas com margem menor por cliente. |
 
-# | ⬜ \*\*Demais Filiais\*\* | Baixo impacto direto, potencial de crescimento regional. |
-
-# 
-
-# \## 📎 Apresentação Completa (PDF)
-
-# \[📄 \*\*Baixar o Case em PDF\*\*](Case\_Bradesco\_Rentabilidade.pdf)
+# | Demais Filiais | Baixo impacto direto, com potencial de crescimento regional. |
 
 # 
 
+# \## Apresentação Completa (PDF)
+
+# \[Baixar o Case em PDF](Case\_Bradesco\_Rentabilidade.pdf)
+
 # 
 
-# \## 🧰 Ferramentas
+# \## Ferramentas
 
 # Power BI • DAX • Python (para simulação de dataset) • Excel • GitHub
 
 # 
 
-# \## 🚀 Resultado
+# \## Resultado
 
 # Painel de \*\*rentabilidade corporativa\*\* com narrativa executiva e design orientado à decisão, simulando padrões de \*\*dashboards bancários reais\*\*.
 
