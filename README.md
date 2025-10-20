@@ -1,92 +1,92 @@
-# \# Case Bradesco – Pricing \& Rentabilidade
+\# Case Bradesco – Pricing \& Rentabilidade
 
-# 
 
-# \## Objetivo
 
-# Desenvolver um painel estratégico de rentabilidade para o \*\*CRM Atacado do Bradesco\*\*, com foco em priorização de produtos e filiais através da \*\*Curva ABC\*\* e análise de \*\*margem consolidada\*\*.
+\## Objetivo
 
-# 
+Desenvolver um painel estratégico de rentabilidade para o \*\*CRM Atacado do Bradesco\*\*, com foco em priorização de produtos e filiais através da \*\*Curva ABC\*\* e análise de \*\*margem consolidada\*\*.
 
-# \## Inteligência Aplicada
 
-# \- Cálculo de \*\*Margem Total\*\* e \*\*Percentual Acumulado\*\*
 
-# \- Classificação automática \*\*A/B/C\*\* de produtos
+\## Inteligência Aplicada
 
-# \- \*\*Ranking de Filiais\*\* com destaque dinâmico (Top 3)
+\- Cálculo de \*\*Margem Total\*\* e \*\*Percentual Acumulado\*\*
 
-# \- Insight executivo com recomendação de \*\*ações comerciais\*\*
+\- Classificação automática \*\*A/B/C\*\* de produtos
 
-# \- Layout no padrão visual \*\*institucional Bradesco\*\*
+\- \*\*Ranking de Filiais\*\* com destaque dinâmico (Top 3)
 
-# 
+\- Insight executivo com recomendação de \*\*ações comerciais\*\*
 
-# \## Visual do Painel
+\- Layout no padrão visual \*\*institucional Bradesco\*\*
 
-# !\[Painel de Rentabilidade](visuals/painel\_rentabilidade\_bradesco.png)
 
-# 
 
-# \## Insight Executivo
+\## Visual do Painel
 
-# As filiais \*\*Brasília Executive, Fortaleza Business e Osasco Matriz\*\* concentram mais de \*\*35% da rentabilidade total\*\*, com destaque para o produto \*\*Cash Management Plus\*\*, da Classe A.
+!\[Painel de Rentabilidade](visuals/painel\_rentabilidade\_bradesco.png)
 
-# Recomenda-se priorizar campanhas de \*\*cross-selling\*\* nessas regiões, focando produtos \*\*Classe B\*\* de maior margem incremental.
 
-# 
 
-# \## Curva ABC Explicada
+\## Insight Executivo
 
-# A Curva ABC é uma técnica que \*\*classifica produtos ou clientes segundo sua contribuição para o resultado total\*\*, permitindo identificar os itens mais relevantes para o negócio.
+As filiais \*\*Brasília Executive, Fortaleza Business e Osasco Matriz\*\* concentram mais de \*\*35% da rentabilidade total\*\*, com destaque para o produto \*\*Cash Management Plus\*\*, da Classe A.
 
-# 
+Recomenda-se priorizar campanhas de \*\*cross-selling\*\* nessas regiões, focando produtos \*\*Classe B\*\* de maior margem incremental.
 
-# | Classe | Descrição | % da Rentabilidade | Exemplo |
 
-# |:-------:|:-----------|:------------------|:--------|
 
-# | A | Itens estratégicos de alta rentabilidade | ~70% | Cash Management Plus |
+\## Curva ABC Explicada
 
-# | B | Itens intermediários com potencial de crescimento | ~20% | Linha Crédito Giro |
+A Curva ABC é uma técnica que \*\*classifica produtos ou clientes segundo sua contribuição para o resultado total\*\*, permitindo identificar os itens mais relevantes para o negócio.
 
-# | C | Itens de baixa representatividade | ~10% | Crédito Expansão Empresarial |
 
-# 
 
-# \## Performance por Filiais
+| Classe | Descrição | % da Rentabilidade | Exemplo |
 
-# O painel destaca o \*\*ranking das filiais com maior contribuição de margem\*\* no portfólio de CRM Atacado.
+|:-------:|:-----------|:------------------|:--------|
 
-# A análise evidencia os \*\*centros de rentabilidade\*\* e as \*\*regiões prioritárias para expansão comercial\*\*.
+| A | Itens estratégicos de alta rentabilidade | ~70% | Cash Management Plus |
 
-# 
+| B | Itens intermediários com potencial de crescimento | ~20% | Linha Crédito Giro |
 
-# | Grupo | Interpretação |
+| C | Itens de baixa representatividade | ~10% | Crédito Expansão Empresarial |
 
-# |:------|:--------------|
 
-# | Top 3 – Brasília, Fortaleza, Osasco | Alto desempenho, mais de 35% da margem total. |
 
-# | Intermediário – Porto Alegre, BH, Campinas | Bom volume, mas com margem menor por cliente. |
+\## Performance por Filiais
 
-# | Demais Filiais | Baixo impacto direto, com potencial de crescimento regional. |
+O painel destaca o \*\*ranking das filiais com maior contribuição de margem\*\* no portfólio de CRM Atacado.
 
-# 
+A análise evidencia os \*\*centros de rentabilidade\*\* e as \*\*regiões prioritárias para expansão comercial\*\*.
 
-# \## Apresentação Completa (PDF)
 
-# \[Baixar o Case em PDF](Case\_Bradesco\_Rentabilidade.pdf) 
 
-# 
+| Grupo | Interpretação |
 
-# \## Ferramentas
+|:------|:--------------|
 
-# Power BI • DAX • Python (para simulação de dataset) • Excel • GitHub
+| Top 3 – Brasília, Fortaleza, Osasco | Alto desempenho, mais de 35% da margem total. |
 
-# 
+| Intermediário – Porto Alegre, BH, Campinas | Bom volume, mas com margem menor por cliente. |
 
-# \## Resultado
+| Demais Filiais | Baixo impacto direto, com potencial de crescimento regional. |
 
-# Painel de \*\*rentabilidade corporativa\*\* com narrativa executiva e design orientado à decisão, simulando padrões de \*\*dashboards bancários reais\*\*.
+
+
+\## Apresentação Completa (PDF)
+
+\[Baixar o Case em PDF](Case\_Bradesco\_Rentabilidade.pdf)
+
+
+
+\## Ferramentas
+
+Power BI • DAX • Python (para simulação de dataset) • Excel • GitHub
+
+
+
+\## Resultado
+
+Painel de \*\*rentabilidade corporativa\*\* com narrativa executiva e design orientado à decisão, simulando padrões de \*\*dashboards bancários reais\*\*.
 
